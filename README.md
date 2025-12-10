@@ -3,6 +3,9 @@
 An AI-powered chat app built on **Cloudflare Agents** using **Workers AI (Llama 3.3)**.  
 It demonstrates an end-to-end AI workflow running entirely at the edge.
 
+## Live Deployment
+https://cf-ai-edge-study-buddy.komalacharyaa.workers.dev
+
 ## Features
 
 - **LLM** – Uses Llama 3.3 on Workers AI for responses.
