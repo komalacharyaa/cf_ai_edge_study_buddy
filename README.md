@@ -18,7 +18,7 @@ npm install
 
 # Run locally
 npm run dev
-# Then open the URL printed in the terminal (e.g. http://127.0.0.1:8787/)
+# Then open the URL printed in the terminal (e.g. http://127.0.0.1:8787/ or http://localhost:8787)
 ```
 
 ## Deploy
